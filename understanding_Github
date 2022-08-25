@@ -1,1 +1,9 @@
-
+GitHub is a code hosting platform for version control and collaboration.
+Repository: a file bthat contains some data.
+push: to share data with organisation or users in the branch.
+pull: to get the information from other members.
+commit: command to capture the project.
+branch: repesents an independent line of development.
+clone: utilising someones code/data from team.
+reveiew: checks the quality of code.
+merge: to join different files.
