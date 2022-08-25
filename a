@@ -1,0 +1,18 @@
+WAP to add,subtract and division of two numbers?
+
+#include<stdio.h>
+//Global Declaration
+int add;
+int sub;
+int div;
+int main()
+{
+int a=8;
+int b=3;
+add=a+b;   //adding 2 variables
+sub=a-b;   //subtracting 2 variables
+div=a/b;  //dividing 2 variables
+printf("Addition of 2 numbers:%d\n",add);       
+printf("Subtraction of 2 numbers:%d\n",sub);
+printf("division of 2 numbers:%d\n",div);
+}
